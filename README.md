@@ -1,4 +1,4 @@
-# Iris Flower Classification 🌸
+# Iris Flower Classification
 
 Predict **Iris flower species** using Python and machine learning.  
 Includes data cleaning, classification models, evaluation, and visualization.
