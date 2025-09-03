@@ -27,24 +27,22 @@ Includes data cleaning, classification models, evaluation, and visualization.
 
 ---
 
-## 📊 Dataset
+## Dataset
 - [**Iris dataset**](https://www.kaggle.com/datasets/uciml/iris?utm_source=chatgpt.com) from Kaggle: 150 samples, 3 species, 4 features
 
 
 ---
-
 ## Notebook
-- `Iris_Species.ipynb`  
+- [Iris_Species.ipynb](Iris_Species.ipynb)  
 
 ---
 
 ## Usage
-1. Open `Iris_Species.ipynb` in **Google Colab** or **Jupyter**  
+1. Open [Iris_Species.ipynb](Iris_Species.ipynb) in **Google Colab** or **Jupyter**  
 2. Run cells step by step:  
    - load data → preprocess → train models → evaluate → visualize results  
 
 ---
-
 Created by **Shezan Mahmud**
 
 
