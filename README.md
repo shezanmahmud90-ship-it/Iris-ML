@@ -27,8 +27,9 @@ Includes data cleaning, classification models, evaluation, and visualization.
 
 ---
 
-## Dataset
-- [**Iris dataset**]([https://www.kaggle.com/c/titanic](https://www.kaggle.com/datasets/uciml/iris?utm_source=chatgpt.com)) from Kaggle: 150 samples, 3 species, 4 features 
+## 📊 Dataset
+- [**Iris dataset**](https://www.kaggle.com/datasets/uciml/iris?utm_source=chatgpt.com) from Kaggle: 150 samples, 3 species, 4 features
+
 
 ---
 
