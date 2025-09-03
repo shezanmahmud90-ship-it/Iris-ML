@@ -7,8 +7,16 @@ Includes data cleaning, classification models, evaluation, and visualization.
 
 ## ✅ What’s Included
 - **Data Preprocessing:** fill missing values, encode categorical features, drop unnecessary columns  
-- **Models:** Random Forest, Logistic Regression, Decision Tree  
-- **Evaluation:** accuracy >95%, feature importance plots, class distribution visualization  
+- **Models:** Random Forest, SVM, Logistic Regression, Decision Tree  
+- **Evaluation:** feature importance plots, class distribution visualization  
+
+---
+
+## 📈 Results
+- **Random Forest Accuracy:** 1.00  
+  - Precision, Recall, F1-score: all 1.00 for each class  
+- **SVM Accuracy:** 1.00  
+  - Precision, Recall, F1-score: all 1.00 for each class  
 
 ---
 
@@ -37,4 +45,5 @@ Includes data cleaning, classification models, evaluation, and visualization.
 ---
 
 ✨ Created by **Shezan Mahmud**
+
 
